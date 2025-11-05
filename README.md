@@ -15,4 +15,4 @@ This repository primarily focuses on network traffic detection methods (includin
 ## 2025      
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **PAMI** | A Novel Self-Supervised Framework Based on  Masked Autoencoder for Traffic Classification | [Paper]([https://ieeexplore.ieee.org/abstract/document/10834569](https://ieeexplore.ieee.org/abstract/document/10380504/)/[Code](https://github.com/NSSL-SJTU/YaTC) 
+:triangular_flag_on_post: 01 | **PAMI** | A Novel Self-Supervised Framework Based on  Masked Autoencoder for Traffic Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/10380504/)/[Code](https://github.com/NSSL-SJTU/YaTC) 
