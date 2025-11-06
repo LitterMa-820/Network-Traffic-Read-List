@@ -12,6 +12,11 @@ This repository primarily focuses on network traffic detection methods (includin
 
 1. [An overview of the Paper List](#overall)
 
+
+<a name="Network Traffic Classification"></a> 
+# Network Traffic Classification <a id="Network Traffic Classification" class="anchor" href="Network Traffic Classification" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
+
+
 ## 2025      
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
