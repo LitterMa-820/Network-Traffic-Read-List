@@ -31,19 +31,19 @@ This repository primarily focuses on network traffic detection methods (includin
 
 <a name="data"></a>  
 # The Network traffic dataset download    <a id="The Network traffic dataset download" class="anchor" href="The Network traffic dataset download" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-* CICIIOT25 datasets [download1](https://github.com/TinyGrass/SODdataset).
+* CICIIOT25 datasets [download1](xx.xxx).
 
 
 <a name="eval"></a>
 # Evaluation Metrics  <a id="Evaluation Metrics" class="anchor" href="Evaluation Metrics" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * Network traffic classification.      
 This link near all evaluation metrics for Network traffic classification including xxx.
-You can found in [here](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).        
+You can found in [here](xxx.xx).        
  
 
 <a name="leaderboard"></a>
 # Comparison with state-of-the-arts  <a id="Comparison with state-of-the-arts" class="anchor" href="Comparison with state-of-the-arts" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-* [Here](https://paperswithcode.com/sota/salient-object-detection-on-duts-te) includes the performance comparison of almost all Network traffic classification algorithms. 
+* [Here](https://xxx.xxx) includes the performance comparison of almost all Network traffic classification algorithms. 
 
 
 
