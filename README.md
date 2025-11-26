@@ -21,6 +21,7 @@ This repository primarily focuses on network traffic detection methods (includin
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **TON** | A Novel Self-Supervised Framework Based on  Masked Autoencoder for Traffic Classification | [Paper](https://ieeexplore.ieee.org/abstract/document/10380504/)/[Code](https://github.com/NSSL-SJTU/YaTC) 
+02 | **AAAI** | Revolutionizing Encrypted Traffic Classification with MH-Net: A Multi-View Heterogeneous Graph Model | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32091/34246)/[Code](https://github.com/ViktorAxelsen/MH-Net) 
 
 
 ## 2024      
