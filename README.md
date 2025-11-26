@@ -38,7 +38,7 @@ This repository primarily focuses on network traffic detection methods (includin
 ##2025
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **TON** | Helios: Learning and Adaptation of Matching Rules for Continual In-Network Malicious Traffic Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714742)/[Code](https://github.com/sznnzs/Helios) 
+:triangular_flag_on_post: 01 | **WWW** | Helios: Learning and Adaptation of Matching Rules for Continual In-Network Malicious Traffic Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714742)/[Code](https://github.com/sznnzs/Helios) 
 
 <a name="data"></a>  
 # The Network traffic dataset download    <a id="The Network traffic dataset download" class="anchor" href="The Network traffic dataset download" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
