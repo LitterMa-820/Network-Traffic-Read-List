@@ -11,6 +11,8 @@ This repository primarily focuses on network traffic detection methods (includin
 ## Content:
 
 1. [An overview of the Paper List](#overall)
+2. [Network Traffic Classification](#NTC)
+3. [Network Intrusion Detection](#NID)
 
 
 <a name="Network Traffic Classification"></a> 
@@ -29,6 +31,14 @@ This repository primarily focuses on network traffic detection methods (includin
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **example** | example | [Paper](https://ieeexplore.ieee.org/example)/[Code](https://github.com/example) 
 
+
+<a name="NID"></a>
+# Network Intrusion Detection <a id="Network Intrusion Detection" class="anchor" href="Network Intrusion Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+
+##2025
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post: 01 | **TON** | Helios: Learning and Adaptation of Matching Rules for Continual In-Network Malicious Traffic Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714742)/[Code](https://github.com/sznnzs/Helios) 
 
 <a name="data"></a>  
 # The Network traffic dataset download    <a id="The Network traffic dataset download" class="anchor" href="The Network traffic dataset download" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
