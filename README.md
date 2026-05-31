@@ -145,13 +145,13 @@ This repository primarily focuses on network traffic detection methods (includin
 <a name="eval"></a>
 # Evaluation Metrics  <a id="Evaluation Metrics" class="anchor" href="Evaluation Metrics" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * Network traffic classification.      
-This link near all evaluation metrics for Network traffic classification including xxx.
-You can found in [here](xxx.xx).        
+This covers evaluation metrics for Network traffic classification.
+You can find the full resource here *(link coming soon)*.        
  
 
 <a name="leaderboard"></a>
 # Comparison with state-of-the-arts  <a id="Comparison with state-of-the-arts" class="anchor" href="Comparison with state-of-the-arts" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-* [Here](https://xxx.xxx) includes the performance comparison of almost all Network traffic classification algorithms. 
+* Performance comparison of almost all Network traffic classification algorithms *(link coming soon)*. 
 
 
 
