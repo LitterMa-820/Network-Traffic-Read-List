@@ -65,7 +65,7 @@ This repository primarily focuses on network traffic detection methods (includin
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **AAAI** | Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25674)/[Code](https://github.com/NSSL-SJTU/YaTC) 
 :triangular_flag_on_post: 02 | **S&P** | Robust Multi-tab Website Fingerprinting Attacks in the Wild | [Paper](https://ieeexplore.ieee.org/document/10179464/) 
-:triangular_flag_on_post: 03 | **WWW** | TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification | [Paper](https://dl.acm.org/doi/10.1145/3543507.3583227) 
+:triangular_flag_on_post: 03 | **WWW** | TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification | [Paper](https://dl.acm.org/doi/10.1145/3543507.3583227)/[Code](https://github.com/ViktorAxelsen/TFE-GNN) 
 :triangular_flag_on_post: 04 | **arXiv** | Facing Unknown: Open-World Encrypted Traffic Classification Based on Contrastive Pre-Training | [Paper](http://arxiv.org/abs/2308.16861) 
 :triangular_flag_on_post: 05 | **arXiv** | Many or Few Samples? Comparing Transfer, Contrastive and Meta-Learning in Encrypted Traffic Classification | [Paper](http://arxiv.org/abs/2305.12432) 
 
