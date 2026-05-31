@@ -154,10 +154,10 @@ You can found in [here](xxx.xx).
 
 
 ### Conference Deadlines
-[Realted Networking and Measurement Conference deadline](https://noise-lab.net/networking-deadlines/)     
-[Realted CCF Conference deadline](https://ccfddl.com)     
-[Realted AI Conference deadline](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)     
-[Realted AI Conference Accepted Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate)
+[Related Networking and Measurement Conference deadline](https://noise-lab.net/networking-deadlines/)     
+[Related CCF Conference deadline](https://ccfddl.com)     
+[Related AI Conference deadline](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)     
+[Related AI Conference Accepted Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 
 
 ### Auxiliary / Excluded from Core Traffic Sections
